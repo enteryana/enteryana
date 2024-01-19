@@ -1,6 +1,12 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Yana", "Mackay"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "Nepo",
+    "Yana",
+    "Mackay"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
