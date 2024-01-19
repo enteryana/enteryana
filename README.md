@@ -20,9 +20,10 @@
 
 ## For contact me
 
-|                                                                                     |     |
-| :---------------------------------------------------------------------------------: | :-: |
-|  [![icons](./img/gmail.png)](https://mail.google.com/mail/valchenkoyana@gmail.com)  |     |
-| [![icons](./img/linkid.png)](https://www.linkedin.com/in/yana-valchenko-96547523b/) |     |
-|          [![icons](./img/inst.png)](https://www.instagram.com/enteryana/)           |     |
-|          [![icons](./img/fb.png)](https://www.facebook.com/yanavalchenko)           |     |
+[![icons](./img/gmail.png)](https://mail.google.com/mail/valchenkoyana@gmail.com)
+
+[![icons](./img/linkid.png)](https://www.linkedin.com/in/yana-valchenko-96547523b/)
+
+[![icons](./img/inst.png)](https://www.instagram.com/enteryana/)
+
+[![icons](./img/fb.png)](https://www.facebook.com/yanavalchenko)
